@@ -7,18 +7,5 @@
     <link>https://allangamal.github.io/focusvault-updates/</link>
     <description>Updates for FocusVault</description>
     <language>en</language>
-
-    <item>
-      <title>Version 1.0.0</title>
-      <sparkle:version>100</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure
-        url="https://github.com/AllanGamal/FocusVault/releases/download/v1.0.0/FocusVault-1.0.0.zip"
-        sparkle:edSignature="REPLACE_ME"
-        length="REPLACE_ME"
-        type="application/octet-stream"/>
-    </item>
-
   </channel>
 </rss>
