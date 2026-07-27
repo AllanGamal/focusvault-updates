@@ -4,12 +4,11 @@
         <title>FocusVault</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Mon, 18 May 2026 13:59:30 +0200</pubDate>
+            <pubDate>Mon, 27 Jul 2026 14:04:09 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://allangamal.github.io/focusvault-updates/FocusVault-1.0.1-2.app.zip" length="1724693" type="application/octet-stream" sparkle:edSignature="9a7hsPTkIRn7eBPE0fFg5wMSAxBh4243YFZGeJC64cYBXM6dzUj4PfGHvuikowztnZVp2Gz4GEDmIboPNg4NDA=="/>
+            <enclosure url="https://allangamal.github.io/focusvault-updates/FocusVault-1.0.1-2.app.zip" length="3360049" type="application/octet-stream" sparkle:edSignature="qjbCq5qPQtwrR7nePr0aZ2DxjjjYxnsQO8dhT3MLVBNf4FJxSSxT3RollWvuoSZPKINbJUHEkWzD0avvrw6PCg=="/>
         </item>
     </channel>
 </rss>
